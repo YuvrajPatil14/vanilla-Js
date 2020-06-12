@@ -1,0 +1,36 @@
+.light-bg {
+  background-color: #ccc;
+}
+
+.relative {
+  position: relative;
+}
+.large-watermark {
+  position: absolute;
+  font-size: 15vh;
+  white-space: nowrap;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  opacity: 7%;
+  text-align: center;
+  justify-content: center;
+}
+.dark-bg {
+  background-color: #444;
+  h2 {
+    color: white;
+  }
+
+  a:hover {
+    color: white;
+  }
+  a {
+    cursor: pointer;
+  }
+}
+
+.darker-bg {
+  background-color: #222;
+  a {
+    color: white;
+  }
+}
