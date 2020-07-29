@@ -8,11 +8,11 @@ https://yuvrajpatil14.github.io/vanilla-Js/ ['folder name']
 
 ## Example:
 
-##### https://yuvrajpatil14.github.io/vanilla-Js/17-breakout
+##### Break out game : https://yuvrajpatil14.github.io/vanilla-Js/17-breakout
 
-##### https://yuvrajpatil14.github.io/vanilla-Js/-03-netflix-landing-clone
+##### Netflix landing page clone : https://yuvrajpatil14.github.io/vanilla-Js/-03-netflix-landing-clone
 
-##### https://yuvrajpatil14.github.io/vanilla-Js/08-meal-finder
+##### Recipe finder : https://yuvrajpatil14.github.io/vanilla-Js/08-meal-finder
 
 # ref:
 
